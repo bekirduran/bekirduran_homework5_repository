@@ -3,3 +3,4 @@
 software engineering homework 5
 
 1. Bekir DURAN
+2. Gencay DEĞİRMENCİ
